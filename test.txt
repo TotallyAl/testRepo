@@ -1,5 +1,2 @@
-This is a text file. 
-I will try random modifications and see how it works
+This is file has been written by Alexandre 
 
-This code is the base code -> A
-Modifications -> B
